@@ -41,3 +41,11 @@ except Exception as e:
     run_test("Banco inexistente", False, "", f"Erro: {e}")
 
 print("\n--- Testes Concluídos ---")
+
+## 🧪 Execução dos Testes: Banks
+
+*   Item da lista
+*   Item da lista
+
+
+Validação do endpoint de bancos para garantir o retorno de instituições e tratamento de erros.
